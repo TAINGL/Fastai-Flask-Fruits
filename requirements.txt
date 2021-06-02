@@ -47,7 +47,7 @@ sympy==1.5.1
 tables==3.6.1
 ujson==1.35
 unicodecsv==0.14.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.25
 Werkzeug==1.0.1
 zipp==2.2.0
